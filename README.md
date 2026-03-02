@@ -1,4 +1,2 @@
 # testrepo
 test
-test
-test
